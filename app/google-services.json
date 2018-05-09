@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "245143866589",
+    "firebase_url": "https://comradeshoppingmkt.firebaseio.com",
+    "project_id": "comradeshoppingmkt",
+    "storage_bucket": "comradeshoppingmkt.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:245143866589:android:febdf77e3a552f05",
+        "android_client_info": {
+          "package_name": "austinegwa.comradeshoppingmkt"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "245143866589-mmkeo5j318cf2pfe2rmigbi3d75ldj9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "austinegwa.comradeshoppingmkt",
+            "certificate_hash": "7c9c6cd48035a46233cf83a36977cbaab7cd4565"
+          }
+        },
+        {
+          "client_id": "245143866589-oujn766veit18svahiv19kplhvargd0i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC2G1nSakZhrSGa31z2Q0tcpIzWdqs3EQA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "245143866589-oujn766veit18svahiv19kplhvargd0i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
